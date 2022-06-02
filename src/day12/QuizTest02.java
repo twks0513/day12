@@ -49,7 +49,7 @@ public class QuizTest02 {
 	
 	public void op() {
 		setSum(kor+eng+math);
-		setAvg(sum/3);
+		setAvg(sum/3.0);
 	}
 	public void print() {
 		op();
